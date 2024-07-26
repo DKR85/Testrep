@@ -1,4 +1,5 @@
 node_modules/
+myVenv/
 *.com
 *.class
 *.dll
